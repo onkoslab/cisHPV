@@ -1,5 +1,5 @@
 # cisHPV
-This repository contains the code used to generate the figures, which are given in the respective notebooks.
+This repository contains the code used to generate the figures, which are provided in the respective notebooks.
 
 The compiled list of HPV integrations (hg19) can be accessed from the Supplementary File 1 of the manuscript.
 The TAD coordinates (hg19) for both HeLa and NHEK can be obtained from the Supplementary File 2 of the manuscript. 
