@@ -7,6 +7,14 @@ Other datasets can be downloaded from the respective sources as mentioned in the
 
 Please change the paths in the notebooks accordingly, wherever required.
 
+#### Notebooks
+Description of Notebooks and their contents.
+
+1. [Notebook to generate Figure 1, genome-wide enrichment of HPV integrations in different functional regions.](https://github.com/autobot101/cisHPV/blob/main/fig1_github.ipynb) 
+2. [Notebook to generate Figure 2, host chromatin state influences HPV integration induced expression dysregulation in its immediate neighbourhood](https://github.com/autobot101/cisHPV/blob/main/fig2_github.ipynb)
+3. Notebook to generate Figure 3 and Figure 4.
+
+
 #### <br/>Required Packages
 
 <b>Python 3.6.7</b>
