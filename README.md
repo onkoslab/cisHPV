@@ -12,7 +12,7 @@ Description of Notebooks and their contents.
 
 1. [Notebook to generate Figure 1, genome-wide enrichment of HPV integrations in different functional regions.](https://github.com/autobot101/cisHPV/blob/main/fig1_github.ipynb) 
 2. [Notebook to generate Figure 2, host chromatin state influences HPV integration induced expression dysregulation in its immediate neighbourhood.](https://github.com/autobot101/cisHPV/blob/main/fig2_github.ipynb)
-3. Notebook to generate Figure 3 and Figure 4.
+3. [Notebook to generate Figure 3 and Figure 4, related to TADs.] (https://github.com/autobot101/cisHPV/blob/main/fig3_fig4_github.ipynb) 
 
 
 #### <br/>Required Packages
